@@ -5,10 +5,10 @@ This is the final code for the Graph Isomorphism Project.
 
 | S-Number | Name               |
 |----------|--------------------|
-| s2325993 | Fabian van Zetten  |
-| s2362023 | Serge Johanns      |
-| s2198312 | Wenjie Zhao        |
-| s2267810 | Tom Meulenkamp     |
+| s2-----3 | prive information  |
+| s2-----3 | prive information  |
+| s2-----2 | prive information  |
+| s2-----0 | prive information  |
 
 ## Instructions
 ### Delivery Files
